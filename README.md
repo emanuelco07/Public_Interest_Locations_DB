@@ -1,8 +1,3 @@
-Here is a clean, well‑structured, GitHub‑ready repository description based on your text.  
-I kept it professional, readable, and formatted exactly the way GitHub READMEs are expected to look.
-
----
-
 # Public Interest Local Information Database
 
 This project provides a structured relational database designed to store and manage public‑interest information about local businesses such as cafés, restaurants, confectioneries, gelaterias, delivery companies, and related services. Built using MySQL, the system includes detailed records about locations, addresses, contact information, delivery partnerships, receipts, and business‑specific attributes.
@@ -90,4 +85,4 @@ Many‑to‑many relationship table linking businesses with delivery companies.
 
 ---
 
-**For more information, please refer to the Romanian [documentation]([link-here](https://github.com/emanuelco07/Public_Interest_Locations_DB/blob/main/Baza%CC%86%20de%20date%20-%20Informat%CC%A6ii%20de%20interes%20public%20zonal.pdf)).**
+**For more information, please refer to the Romanian [documentation](https://github.com/emanuelco07/Public_Interest_Locations_DB/blob/main/Baza%CC%86%20de%20date%20-%20Informat%CC%A6ii%20de%20interes%20public%20zonal.pdf).**
